@@ -33,6 +33,9 @@ public class Livre {
         this.Auteur = A;
     
     }
+     public Livre(String T){
+        this.Titre=T;
+    }
     public Livre(){
         this.Titre="titre";
         this.Auteur ="auteu";
