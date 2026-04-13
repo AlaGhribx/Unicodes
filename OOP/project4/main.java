@@ -1,5 +1,5 @@
 
-
+package project4;
 public class main {
     public static void main(String[] args) {
         product p = new product();

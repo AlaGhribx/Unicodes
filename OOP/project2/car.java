@@ -1,4 +1,4 @@
-
+package project2;
 public class car {
     //attributs:
     private String name;

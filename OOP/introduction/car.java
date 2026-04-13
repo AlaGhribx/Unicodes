@@ -1,4 +1,4 @@
-
+package introduction;
 class car {
     String color; // attributs 
     int speed; // attribut
