@@ -1,4 +1,4 @@
-package randoms;
+
 import java.util.Scanner; // 1. استيراد المكتبة
 
 public class Main {
