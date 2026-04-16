@@ -1,5 +1,5 @@
 
-package oopintiro;
+package oopintero;
 public class Livre {
     private String Titre;
     public String getTitre() {

@@ -1,4 +1,4 @@
-package oopintiro;
+package oopintero;
 
 public class livre {
     public static void main(String[] args) {
